@@ -35,7 +35,7 @@ I have a solid foundation in programming and networks, applying **Agile/Scrum** 
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Ícones selecionados com base no teu CV -->
-    <img src="https://skillicons.dev/icons?i=java,c,cs,python,js,ts,react,nodejs,threejs,linux,docker,git,idea,vscode,clion,rider,webstorm&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,python,js,ts,react,nodejs,threejs,linux,docker,git,idea,vscode,clion,rider,webstorm,ae,anaconda,bitbucket,clion,css,html,cypress,dotnet,github,haskell,threejs&theme=dark" />
   </a>
 </div>
 
