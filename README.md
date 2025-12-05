@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Teu Nome]! 👋</h1>
+<h1 align="center">Hi there, I'm Jorge Ubaldo! 👋</h1>
 <h3 align="center">🎓 Final-year Computer Engineering Student at ISEP</h3>
 
 <table>
